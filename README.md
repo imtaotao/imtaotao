@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Taochen, you can call me Arthur
 
 <br>
-<br>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" />
 
