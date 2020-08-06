@@ -1,6 +1,9 @@
 ### Hi 👋, I'm Taochen, you can call me Arthur
 
-  <img align="right" alt="GIF" src="https://c-ssl.duitang.com/uploads/item/201710/10/20171010200821_YZWHs.gif" />
+<br>
+<br>
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" />
 
 **Talking about myself:**
 
