@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Bytedance
 - 🌱 I’m currently learning Swift
 - 🤔 I’m looking for help with Algorithms 🐶
-- 💬 Ask me about js library or meizhi 🥺
+- 💬 Ask me about js library or xx 🥺
 - ⚡ Fun fact: coding or watch live
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=imtaotao&show_icons=true&hide_border=true)
