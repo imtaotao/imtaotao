@@ -1,4 +1,4 @@
-### Hi 👋, I'm Taochen, you can call me Arthur
+## Hi 👋, I'm [Taochen](https://www.zhihu.com/people/chen-tao-2-78)
 
 <br>
 
@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on Bytedance
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with Algorithms 🐶
-- 💬 Ask me about js library or xx 🥺
-- ⚡ Fun fact: coding or watch live
+- 💬 Ask me about js library
+- ⚡ Fun fact: coding or play games
