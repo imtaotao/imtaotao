@@ -5,7 +5,7 @@
 **Talking about myself:**
 
 - 🔭 I’m currently working on Bytedance
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and Rust
 - 🤔 I’m looking for help with Algorithms 🐶
 - 💬 Ask me about js library
 - ⚡ Fun fact: coding or play games
