@@ -2,4 +2,4 @@
 
 <br>
 
-I'm currently working at ByteDance, and I'm working on some interesting stuff like `micro-frontends`, `remote packages` and `low-code`, and a super-efficient `shared development model`. At this stage I am learning some knowledge about compilation. If you are also interested in these, please follow me 😀.
+I'm currently working at ByteDance and working on some interesting stuff like micro frontends, remote packages and low-code dx parts, and a super-efficient shared development model. At this stage I am learning some knowledge about compilation. If you are also interested in these, let's create interesting works together, please follow me 😀.
